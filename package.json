@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Sdott3/Tech-Blog/issues"
   },
-  "homepage": "https://github.com/Sdott3/Tech-Blog#readme"
+  "homepage": "https://github.com/Sdott3/Tech-Blog#readme",
+  "dependencies": {
+    "express-handlebars": "^6.0.6"
+  }
 }
